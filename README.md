@@ -1,4 +1,11 @@
 # Low Noise Amplifier Design
+
+<p align="center">
+  <img src="LNA.jpg">
+</p>
+
+[Source.](https://shop.kuhne-electronic.com/kuhne/en/shop/industrial/prof-power-amplifier/prof-l-band/KU+LNA+152+AH++Super+Low+Noise+Amplifier/?card=354)
+
 In EHB451E, we learned about Active Microwave Circuits; mostly amplifiers and oscilators.
 
 This is a term project from EHB451E, where we designed a low noise amplifier and simulated &amp; compared to real world applications.
@@ -8,3 +15,8 @@ The [pdf file](https://github.com/kantarcise/Low-Noise-Amplifier-Design/blob/mas
 Advanced Design System 2016 is used for simulation, and the transmission line parameters are iteratively calculated with the results.
 
 It was a fun project =)
+
+
+## Help, I'm Stuck!
+
+For any questions regarding on how to open the code and play around matlab, feel free to contact [Sezai](mailto:sezaiburakkantarci@gmail.com) from the mail. 
