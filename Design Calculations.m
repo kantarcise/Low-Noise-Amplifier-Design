@@ -1,5 +1,5 @@
-%All the values are selected for a specific design. Adjust accordingly, if you are going to use the script as a foundation.
-%All credit goes to: Mert Karakurt.
+% All the values are selected for a specific design. Adjust accordingly, if you are going to use the script as a foundation.
+% All credit goes to: Mert Karakurt.
 
 % 2.4 GHz,1 dB Noise Figure & Maximum Gain LNA
 s = [0.776*exp(1i*-87.8*pi/180), 0.067*exp(1i*32.4*pi/180);
