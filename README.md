@@ -18,10 +18,9 @@ It was a fun project =)
 
 ## Introduction
 
-A low-noise amplifier (LNA) is an amplifier that is used to amplify signals with very low strength, usually from an antenna [2]. Input 
-signal of these amplifiers are very low – powered, barely recognizable, and they should be amplified without significant degrade on 
-signal to noise ratio. Otherwise important information might be lost. LNA’s are one of the most important circuit components present in 
-signal receivers.
+A low-noise amplifier (LNA) is an amplifier that is used to amplify signals with very low strength. Input signal of these amplifiers are 
+very low – powered, barely recognizable, and they should be amplified without significant degrade on signal to noise ratio. Otherwise 
+important information might be lost. LNA’s are one of the most important circuit components present in signal receivers.
 
 
 ## Design
