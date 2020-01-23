@@ -28,7 +28,7 @@ course.
 Well, to make an amplifier, there are lots of ways; but we chose the transistor and a matching circuit route. For that, we needed to 
 chose an transistor, that is actually commercialized as low noise, so we could use it in an LNA. 
 
-For the transistor, we chose this beautiful looking masterpiece. ([Source](https://www.sedi.co.jp/file.jsp?/pdf/FHX76LP_ED1-3.pdf))
+For the transistor, we chose this beautiful looking masterpiece called "FHX76LP". ([Source](https://www.sedi.co.jp/file.jsp?/pdf/FHX76LP_ED1-3.pdf))
 
 <p align="center">
   <img src="fhx76lp.jpg">
