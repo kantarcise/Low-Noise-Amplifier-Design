@@ -32,7 +32,7 @@ For the transistor, we chose this beautiful looking masterpiece. ([Source](https
 
 <p align="center">
   <img src="fhx76lp.jpg">
-  <img src="dimensions.jpg">
+  <img src="dimension.jpg">
 </p>
 
 ## Design
