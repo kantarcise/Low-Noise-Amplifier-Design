@@ -25,6 +25,9 @@ important information might be lost. LNA’s are one of the most important circu
 Our goal is to design an LNA that is adequate on quality with the real world applications; with the knowladge we gathered during the 
 course.
 
+Well, to make an amplifier, there are lots of ways; but we chose the transistor and a matching circuit route. For that, we needed to 
+chose an transistor, that is actually commercialized as low noise, so we could use it in an LNA. 
+
 
 ## Design
 
