@@ -37,6 +37,8 @@ For the transistor, we chose this beautiful looking masterpiece called "FHX76LP"
 
 ## Design
 
+After the selection of "FHX76LP" we obviously needed the S parameters of it; for differing frequencies. In the official datasheet, S parameters are only given at 1 GHz strides. This is not ideal for a real world application case, so we needed to enrich the data.
+
 
 ## Simulation
 
