@@ -45,7 +45,7 @@ You thought there would not be any matlab in this huh. Well, allow me to introdu
 
 
 <p align="center">
-  <img src="damn.mp4">
+  <img src="damn.gif">
 </p>
 
 
