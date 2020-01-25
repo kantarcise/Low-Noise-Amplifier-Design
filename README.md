@@ -39,6 +39,17 @@ For the transistor, we chose this beautiful looking masterpiece called "FHX76LP"
 
 After the selection of "FHX76LP" we obviously needed the S parameters of it; for differing frequencies. In the official datasheet, S parameters are only given at 1 GHz strides. This is not ideal for a real world application case, so we needed to enrich the data.
 
+That is where the [data enrichment](https://github.com/kantarcise/Low-Noise-Amplifier-Design/blob/master/Enrich_data.m) comes in to play. 
+
+You thought there would not be any matlab in this huh. Well, allow me to introduce you **"Curve Fitting"**.
+
+
+<p align="center">
+  <img src="damn.jpg">
+</p>
+
+
+
 
 ## Simulation
 
