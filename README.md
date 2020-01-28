@@ -50,6 +50,7 @@ You thought there would not be any matlab in this huh. Well, allow me to introdu
 
 The matlab code given is to increase the number of S parameters, with a pretty basic idea. And even though it's just interpolating, the results were pretty accurate; as it's checked in simulation.
 
+After we get almost the 10 times bigger data for S parameters, we can do a design on any frequency desired. (This is actually pretty important, as if you are trying to reproduce this project with another transistor; you might want to take a look at the matlab script.)
 
 
 
