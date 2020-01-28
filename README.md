@@ -48,6 +48,8 @@ You thought there would not be any matlab in this huh. Well, allow me to introdu
   <img src="damn.gif">
 </p>
 
+The matlab code given is to increase the number of S parameters, with a pretty basic idea.
+
 
 
 
