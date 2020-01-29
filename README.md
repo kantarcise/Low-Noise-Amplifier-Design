@@ -52,6 +52,7 @@ The matlab code given is to increase the number of S parameters, with a pretty b
 
 After we get almost the 10 times bigger data for S parameters, we can do a design on any frequency desired. (This is actually pretty important, as if you are trying to reproduce this project with another transistor; you might want to take a look at the matlab script.)
 
+After you chose the S parameters for your frequency, its time to move on to the stability check. 
 
 
 ## Simulation
