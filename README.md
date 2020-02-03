@@ -62,7 +62,9 @@ In a low noise amplifier design, with the used transistor; we know the values fo
 
 ## Simulation
 
-After completing the design; we move on to the simulation, to evaluate our calculations for our low noise amplifier.
+After completing the design; we move on to the simulation, to evaluate our calculations for our low noise amplifier. 
+
+Advanced Design System 2016 is the software of choice for this project. However; any electronic design automation software could've been used. With it's simplicity and accessibility; **"ADS 2016"** is just a nice choice.
 
 ## Results & Future Work
 
