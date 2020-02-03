@@ -56,6 +56,12 @@ After you chose the S parameters for your frequency, its time to move on to the 
 
 If the amplifier is stable at the frequency; for a low noise design, we might want to take a look at the **"Noise Parameters"** .
 
+3 parameters that is crucial here can be given as *"Minimum Noise Figure, Optimum reflection coefficient and Resistance Value"*
+
+
+
+
+
 
 ## Simulation
 
