@@ -56,16 +56,13 @@ After you chose the S parameters for your frequency, its time to move on to the 
 
 If the amplifier is stable at the frequency; for a low noise design, we might want to take a look at the **"Noise Parameters"** .
 
-3 parameters that is crucial here can be given as *"Minimum Noise Figure, Optimum reflection coefficient and Resistance Value"*
+These 3 parameters that is crucial can be given as *"Minimum Noise Figure, Optimum reflection coefficient and Resistance Value"*
 
-
-
-
-
+In a low noise amplifier design, with the used transistor; we know the values for a low noise transistor. In fact, the noise paramters can be found in the datasheet for "FHX76LP".
 
 ## Simulation
 
-
+After completing the design; we move on to the simulation, to evaluate our calculations for our low noise amplifier.
 
 ## Results & Future Work
 
