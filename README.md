@@ -66,6 +66,11 @@ After completing the design; we move on to the simulation, to evaluate our calcu
 
 Advanced Design System 2016 is the software of choice for this project. However; any electronic design automation software could've been used. With it's simplicity and accessibility; **"ADS 2016"** is just a nice choice.
 
+
+The calculated transmission line lenghts were a bit off, so we used sweep tuning.
+
+Trial and error comes into play at this point. *Tune Parameters* were used to fine tune lenghts, and with different choices, the results were observed with simulation.
+
 ## Results & Future Work
 
 
